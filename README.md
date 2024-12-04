@@ -42,6 +42,10 @@ Implementation-of-ML-model-for-image-classification is a Streamlit app that inte
     streamlit run app.py
 5. **Open the app**: 
     The app will open in your default web browser. If not, navigate to http://localhost:8501
+   
+### Using google colab to run the Streamlit app 
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jackhallloween21/Implementation-of-ML-model-for-image-classification/blob/main/Streamlit_on_colab_running_app_py_.ipynb)
+https://colab.research.google.com/drive/1My9A4BT36yfVgjoyMAQyyK0NG91-XM1S?usp=sharing
 
 ### Contributing
   Feel free to fork the repository, open issues, or submit pull requests to contribute to the project.

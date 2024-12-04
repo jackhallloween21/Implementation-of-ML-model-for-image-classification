@@ -45,7 +45,11 @@ Implementation-of-ML-model-for-image-classification is a Streamlit app that inte
    
 ### Using google colab to run the Streamlit app 
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jackhallloween21/Implementation-of-ML-model-for-image-classification/blob/main/Streamlit_on_colab_running_app_py_.ipynb)
-https://colab.research.google.com/drive/1My9A4BT36yfVgjoyMAQyyK0NG91-XM1S?usp=sharing
+
+1. **Run all the cells**
+2. ** Upload  model111.h5 and newApp.py from the GitHub repo **
+3. ** After running ```!npx localtunnel --port 8501``` 
+Go to the link generated and paste the external IP address from logs.txt in the password field **
 
 ### Contributing
   Feel free to fork the repository, open issues, or submit pull requests to contribute to the project.
